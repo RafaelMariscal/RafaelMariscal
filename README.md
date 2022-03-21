@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello everyone! </br>Here, I'll be sharing some projects that I've been working on!
+
+# LOADING ...
+- I'm currently learning: HTML, CSS, JAVASCRIPT, NODE, REACT, SQL
+- How to reach me: rafael_mariscal_@outlook.com
+- Fun fact: I'm also a BBQ master! 🔪🥩🔥 
