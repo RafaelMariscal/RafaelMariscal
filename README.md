@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello everyone! </br>Here, I'll be sharing some projects that I've been working on!
+## Hey everyone! </br>Here, I'll be sharing some projects that I've been working on and ropos too!
 
-# LOADING ...
+### LOADING ...
 - Currently working on a web aplication [ Jacked Planner ] 
 - Using and Learning: HTML, CSS, JAVASCRIPT, REACTJS, NODE, FIREBASE, MONGODB
 - How to reach me: rafael_mariscal_@outlook.com
