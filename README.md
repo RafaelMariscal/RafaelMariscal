@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey everyone! </br>Here, I'll be sharing some projects that I've been working on and ropos too!
+### Hey everyone! </br>Here, I'll be sharing some projects that I've been working on and ropos too!
 
-### LOADING ...
 - Currently working on a web aplication [ Jacked Planner ] 
+
 - Using and Learning: HTML, CSS, JAVASCRIPT, REACTJS, NODE, FIREBASE, MONGODB
+
 - How to reach me: rafael_mariscal_@outlook.com
+
 - Fun fact: I'm also a BBQ master! 🔪🥩🔥
