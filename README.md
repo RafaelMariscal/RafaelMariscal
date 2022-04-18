@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working on and ropos too!
+### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working, and some ropos too!
 
 - Currently working on a web aplication [ Jacked Planner ] 
 
