@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Currently working on a web aplication [ Jacked Planner ] 
 
-- Using and Learning: HTML, CSS, JAVASCRIPT, REACTJS, NODE, FIREBASE, MONGODB
+- Learning: HTML, CSS, Javascript, ReactJs, NodeJs, Firebase, SQL, PostgreSQL.
 
 - How to reach me: rafael_mariscal_@outlook.com
 
