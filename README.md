@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - Learning: HTML, CSS, Javascript, ReactJs, NodeJs, Firebase, SQL, PostgreSQL.
 
-- How to reach me: rafael_mariscal_@outlook.com  //  https://www.linkedin.com/in/rafael-mariscal/
+- How to reach me: email: rafael_mariscal_@outlook.com || https://www.linkedin.com/in/rafael-mariscal/
 
 - Fun fact: I'm also a BBQ master! 🔪🥩🔥
