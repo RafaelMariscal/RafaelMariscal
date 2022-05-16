@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 -->
 
 ### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working, and some ropos too! </br></br> Currently working with -> Jacked Planner</br>
-repo: [Jacked Planner](https://github.com/RafaelMariscal/jackedPlanner)
+repo quick link: [Jacked Planner](https://github.com/RafaelMariscal/jackedPlanner)
 
 - Using and allways leaning:</br>
-
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</br>
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</br>
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![HTML5](https://xesque.rocketseat.dev/platform/tech/html5.svg)
+ ![CSS3](https://xesque.rocketseat.dev/platform/tech/css3.svg)
+ ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
+ ![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)
+ ![Redux](https://xesque.rocketseat.dev/platform/tech/redux.svg)
+ ![Redux](https://xesque.rocketseat.dev/platform/tech/git.svg)</br>
+ ![NodeJS](https://xesque.rocketseat.dev/platform/tech/node.svg)
+ ![Firebase](https://xesque.rocketseat.dev/platform/tech/firebase.svg)
+ ![MongoDB](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)
+ ![MySQL](https://xesque.rocketseat.dev/platform/tech/mysql.svg)
+ ![Postgres](https://xesque.rocketseat.dev/platform/tech/postgresql.svg)
+ ![Docker](https://xesque.rocketseat.dev/platform/tech/docker.svg)
  
 - How to reach me: </br>
 [![Linkedin: rafael-mariscal](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mariscal/)
-[![Rafael Mariscal](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael_mariscal_@outlook.com)
+[![Rafael Mariscal](https://img.shields.io/badge/Microsoft_Outlook-272a62?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael_mariscal_@outlook.com)
 
-- Fun fact: I'm also a BBQ master! 🔪🥩🔥
+- Fun fact:</br>
+I'm also a BBQ master! 🔪🥩🔥
