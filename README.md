@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working, and some ropos too! </br></br> Currently working with -> Jacked Planner</br>
-repo quick link: [Jacked Planner](https://github.com/RafaelMariscal/jackedPlanner)
+quick link for repo: [Jacked Planner](https://github.com/RafaelMariscal/jackedPlanner)
 
 - Using and allways leaning:</br>
  ![HTML5](https://xesque.rocketseat.dev/platform/tech/html5.svg)
