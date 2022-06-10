@@ -20,9 +20,9 @@ quick link for repo: [Jacked Planner](https://github.com/RafaelMariscal/jackedPl
  ![HTML5](https://xesque.rocketseat.dev/platform/tech/html5.svg)
  ![CSS3](https://xesque.rocketseat.dev/platform/tech/css3.svg)
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
+ ![TypeScript](https://xesque.rocketseat.dev/platform/tech/typescript.svg)
  ![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)
- ![Redux](https://xesque.rocketseat.dev/platform/tech/redux.svg)
- ![Redux](https://xesque.rocketseat.dev/platform/tech/git.svg)</br>
+ ![git](https://xesque.rocketseat.dev/platform/tech/git.svg)</br>
  ![NodeJS](https://xesque.rocketseat.dev/platform/tech/node.svg)
  ![Firebase](https://xesque.rocketseat.dev/platform/tech/firebase.svg)
  ![MongoDB](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)
