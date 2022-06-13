@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working, and some ropos too! </br></br> Currently working with -> Jacked Planner</br>
-quick link for repo: [Jacked Planner](https://github.com/RafaelMariscal/jackedPlanner)
+### Hey everyone! </br></br>Here, I'll be sharing some projects that I've been working, and some repos too! </br></br> Currently working with -> Dalilo Bakery [Loading...]</br>
 
 - Using and allways leaning:</br>
  ![HTML5](https://xesque.rocketseat.dev/platform/tech/html5.svg)
@@ -22,7 +21,7 @@ quick link for repo: [Jacked Planner](https://github.com/RafaelMariscal/jackedPl
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
  ![TypeScript](https://xesque.rocketseat.dev/platform/tech/typescript.svg)
  ![React](https://xesque.rocketseat.dev/platform/tech/reactjs.svg)
- ![git](https://xesque.rocketseat.dev/platform/tech/git.svg)</br>
+ ![Git](https://xesque.rocketseat.dev/platform/tech/git.svg)</br>
  ![NodeJS](https://xesque.rocketseat.dev/platform/tech/node.svg)
  ![Firebase](https://xesque.rocketseat.dev/platform/tech/firebase.svg)
  ![MongoDB](https://xesque.rocketseat.dev/platform/tech/mongodb.svg)
