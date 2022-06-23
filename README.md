@@ -1,7 +1,9 @@
+## Hey everyone! </br>
 
+<p>My name is Rafael Mariscal and I'm currently work as portfolio manager in food and meal supply sector. Sice 2021, I've been studying web development because its fun! 😎</p>
 
-### Hey everyone! </br>
-### Currently working with: Dalilo Bakery App [Loading...]</br></br>
+### Currently working with:  Dalilo Bakery App [🚧 Under Construction...]</br></br>
+
 
 - With experience in:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
