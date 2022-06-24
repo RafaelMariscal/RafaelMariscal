@@ -1,8 +1,10 @@
 ## Hey everyone! </br>
 
-<p>My name is Rafael Mariscal and I'm currently work as portfolio manager in food and meal supply sector. Sice 2021, I've been studying web development because its fun! 😎</p>
+<p>My name is Rafael Mariscal and I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
 
-### Currently working with:  Dalilo Bakery App [🚧 Under Construction...]</br></br>
+### Currently working with:  Dalilo Bakery App [🚧 Under Construction...]
+quick link to repo: <a href="https://github.com/RafaelMariscal/DaliloBakery">DaliloBakery</a>
+</br>
 
 
 - With experience in:</br></br>
