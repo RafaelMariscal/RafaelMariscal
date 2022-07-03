@@ -1,11 +1,10 @@
-## Hey everyone! </br>
+## Hey everyone! My name is Rafael Mariscal! </br>
 
-<p>My name is Rafael Mariscal and I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
+<p>I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
 
 ### Currently working with:  Dalilo Bakery App [🚧 Under Construction...]
 quick link to repo: <a href="https://github.com/RafaelMariscal/DaliloBakery">DaliloBakery</a>
 </br>
-
 
 - Experienced with:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
@@ -24,7 +23,7 @@ quick link to repo: <a href="https://github.com/RafaelMariscal/DaliloBakery">Dal
  ![MySQL](https://xesque.rocketseat.dev/platform/tech/mysql.svg)
  ![Docker](https://xesque.rocketseat.dev/platform/tech/docker.svg)
  ![AWS](https://xesque.rocketseat.dev/platform/tech/aws.svg)
- 
+  
 - How to reach me: </br></br>
 [![Linkedin: rafael-mariscal](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mariscal/)
 [![Rafael Mariscal](https://img.shields.io/badge/Microsoft_Outlook-272a62?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael_mariscal_@outlook.com)
