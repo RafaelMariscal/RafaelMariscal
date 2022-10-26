@@ -2,8 +2,8 @@
 
 <p>I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
 
-### Currently working with:  Dalilo Bakery App [🚧 Under Construction...]
-quick link to repo: <a href="https://github.com/RafaelMariscal/DaliloBakery">DaliloBakery</a>
+### Currently working with:  Jacked Planner React App [🚧 Under Construction...]
+quick link to repo: <a href="https://github.com/RafaelMariscal/JackedPlanner-ReactJs">Jacked Planner [React]</a>
 </br>
 
 - Experienced with:</br></br>
