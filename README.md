@@ -2,7 +2,7 @@
 
 <p>I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
 
-### Currently working with:  Jacked Planner React App [🚧 Under Construction...]
+### Currently developing software for a vehicle inspection company located in Fortaleza-CE
 quick link to repo: <a href="https://github.com/RafaelMariscal/JackedPlanner-ReactJs">Jacked Planner [React]</a>
 </br>
 
