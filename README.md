@@ -1,11 +1,3 @@
-## Hey everyone! My name is Rafael Mariscal! </br>
-
-<p>I currently work as portfolio manager at a food and beverage company. Sice 2021, I've been studying web development because its fun! 😎</p>
-
-### Currently developing software for a vehicle inspection company located in Fortaleza-CE
-quick link to repo: <a href="https://github.com/RafaelMariscal/JackedPlanner-ReactJs">Jacked Planner [React]</a>
-</br>
-
 - Experienced with:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
  ![TypeScript](https://xesque.rocketseat.dev/platform/tech/typescript.svg)
