@@ -1,6 +1,6 @@
 <h3>I've been developing solutions and managing projects to add value to whatever I'm involved with.</h3>
 
-#### Currently envolved with the following project: [SaaS - Online Vehicle Inspection Company CRM](https://www.rdinspecoesveiculares.com.br/)
+#### Currently envolved with the following project: [Online Vehicle Inspection Company - SaaS](https://www.rdinspecoesveiculares.com.br/)
 
 - Experienced with:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
