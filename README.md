@@ -1,3 +1,7 @@
+<h3>I've been developing solutions and managing projects to add value to whatever I'm involved with.</h3>
+
+#### Currently envolved with the following project: [SaaS - Online Vehicle Inspection Company CRM](https://www.rdinspecoesveiculares.com.br/)
+
 - Experienced with:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
  ![TypeScript](https://xesque.rocketseat.dev/platform/tech/typescript.svg)
@@ -19,6 +23,4 @@
 - How to reach me: </br></br>
 [![Linkedin: rafael-mariscal](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mariscal/)
 [![Rafael Mariscal](https://img.shields.io/badge/Microsoft_Outlook-272a62?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael_mariscal_@outlook.com)
-
-- Fun fact:</br></br>
-I'm also BBQ Master - I mean it! 🔪🥩🔥 
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaelmariscal.vercel.app/)
