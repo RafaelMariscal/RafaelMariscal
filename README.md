@@ -1,6 +1,8 @@
-<h3>I've been developing solutions and managing projects to add value to whatever I'm involved with.</h3>
+<h3>I develop solutions to real-life problems, managing teams to achieve goals.</h3>
 
-#### Currently envolved with the following project: [Online Vehicle Inspection Company - SaaS](https://www.rdinspecoesveiculares.com.br/)
+<strong>Fell free to [access my portfolio website](https://rafaelmariscal.vercel.app/).</strong>
+
+<strong>Currently envolved with the following project: [Online Vehicle Inspection Company - Desktop SaaS](https://www.rdinspecoesveiculares.com.br/)<strong>
 
 - Experienced with:</br></br>
  ![JavaScript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
